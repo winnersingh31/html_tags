@@ -1,6 +1,6 @@
 Powerful HTML tags
 
-<summary> summary 
+<summary> summary tag allow to add the text in dropdown.
 
 <del> To identify text has been deleted.
 
